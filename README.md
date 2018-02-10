@@ -8,6 +8,6 @@ now, run project
 admin username is-- electronixadmin
 password is-- 12345678
 
+video: https://www.youtube.com/watch?v=gwKj2Dz8AKE
 THANKS.
 
-The World is Fake.
